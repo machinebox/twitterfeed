@@ -13,3 +13,5 @@ for tweet := range r.Run(ctx, "monkey") {
 
 log.Println("done")
 ```
+
+* You can read the [GoDocs](https://godoc.org/github.com/machinebox/twitterfeed) if you prefer
