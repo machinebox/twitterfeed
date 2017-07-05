@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/matryer/go-oauth/oauth"
+	"github.com/garyburd/go-oauth/oauth"
 )
 
 // Tweet is a single tweet.
